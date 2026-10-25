@@ -1,0 +1,53 @@
+rank,display_rank,name,state,control,unitid,usnews_id,inclusion
+1,#1,Massachusetts Institute of Technology,MA,private,166683,2178,top50
+2,#2,Princeton University,NJ,private,186131,2627,top50
+3,#3,Harvard University,MA,private,166027,2155,top50
+4,#4,Yale University,CT,private,130794,1426,top50
+5,#5,California Institute of Technology,CA,private,110404,1131,top50
+5,#5,Stanford University,CA,private,243744,1305,top50
+7,#7,University of Pennsylvania,PA,private,215062,3378,top50
+8,#8,Duke University,NC,private,198419,2920,top50
+9,#9,Johns Hopkins University,MD,private,162928,2077,top50
+9,#9,Northwestern University,IL,private,147767,1739,top50
+9,#9,University of Chicago,IL,private,144050,1774,top50
+12,#12,Columbia University,NY,private,190150,2707,top50
+12,#12,Dartmouth College,NH,private,182670,2573,top50
+14,#14,Carnegie Mellon University,PA,private,211440,3242,top50
+14,#14,Cornell University,NY,private,190415,2711,top50
+16,#16,Brown University,RI,private,217156,3401,top50
+16,#16,Rice University,TX,private,227757,3604,top50
+16,#16,Vanderbilt University,TN,private,221999,3535,top50
+16,#16,Washington University in St. Louis,MO,private,179867,2520,top50
+20,#20,"University of California, Berkeley",CA,public,110635,1312,top50
+20,#20,"University of California, Los Angeles",CA,public,110662,1315,top50
+20,#20,University of Notre Dame,IN,private,152080,1840,top50
+23,#23,Emory University,GA,private,139658,1564,top50
+23,#23,Georgetown University,DC,private,131496,1445,top50
+25,#25,University of Michigan--Ann Arbor,MI,public,170976,9092,top50
+26,#26,University of Virginia,VA,public,234076,6968,top50
+27,#27,University of North Carolina--Chapel Hill,NC,public,199120,2974,top50
+27,#27,University of Southern California,CA,private,123961,1328,top50
+29,#29,Georgia Institute of Technology,GA,public,139755,1569,top50
+29,#29,University of California San Diego,CA,public,110680,1317,top50
+31,#31,Boston College,MA,private,164924,2128,top50
+31,#31,New York University,NY,private,193900,2785,top50
+31,#31,Tufts University,MA,private,168148,2219,top50
+34,#34,Boston University,MA,private,164988,2130,top50
+34,#34,"University of California, Davis",CA,public,110644,1313,top50
+34,#34,"University of California, Irvine",CA,public,110653,1314,top50
+34,#34,University of Florida,FL,public,134130,1535,top50
+34,#34,University of Illinois Urbana-Champaign,IL,public,145637,1775,top50
+34,#34,The University of Texas--Austin,TX,public,228778,3658,top50
+34,#34,University of Wisconsin--Madison,WI,public,240444,3895,top50
+34,#34,Wake Forest University,NC,private,199847,2978,top50
+42,#42,Northeastern University,MA,private,167358,2199,top50
+42,#42,Villanova University,PA,private,216597,3388,top50
+44,#44,Case Western Reserve University,OH,private,201645,3024,top50
+44,#44,Lehigh University,PA,private,213543,3289,top50
+44,#44,The Ohio State University,OH,public,204796,6883,top50
+44,#44,Rutgers University--New Brunswick,NJ,public,186380,6964,top50
+44,#44,"University of California, Santa Barbara",CA,public,110705,1320,top50
+49,#49,"University of Maryland, College Park",MD,public,163286,2103,top50
+49,#49,University of Rochester,NY,private,195030,2894,top50
+49,#49,University of Washington,WA,public,236948,3798,top50
+52,#52,University of Georgia,GA,public,139959,1598,added: University of Georgia

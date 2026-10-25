@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Georgia vs. Maryland · Income and Pell Grants by County</title>
+</head>
+<body>
+  <header class="cp-head">
+    <div>
+      <p class="cp-eyebrow">Where College Opportunity Begins · Prototype</p>
+      <h1>Georgia vs. Maryland</h1>
+      <p class="cp-sub">County income (top) and the Pell Grant share at the colleges each county’s freshmen attend (bottom). Each row uses one color scale for both states.</p>
+    </div>
+    <nav class="cp-nav" aria-label="Pages">
+      <a href="/">← MA &amp; GA Full Map</a>
+      <a href="/compare.html" aria-current="page">GA vs. MD Maps</a>
+    </nav>
+  </header>
+  <main class="cp-grid" id="main">
+    <div class="cp-colhead" id="head-GA"></div>
+    <div class="cp-colhead" id="head-MD"></div>
+
+    <div class="cp-rowlabel"><span>Median household income</span><div class="cp-legend" id="legend-income"></div></div>
+    <figure class="cp-map"><div id="map-income-GA" class="cp-canvas" role="region" aria-label="Georgia counties by median household income"></div></figure>
+    <figure class="cp-map"><div id="map-income-MD" class="cp-canvas" role="region" aria-label="Maryland counties by median household income"></div></figure>
+
+    <div class="cp-rowlabel"><span>Pell share at colleges attended</span><div class="cp-legend" id="legend-pell"></div></div>
+    <figure class="cp-map"><div id="map-pell-GA" class="cp-canvas" role="region" aria-label="Georgia counties by Pell share at destination colleges"></div></figure>
+    <figure class="cp-map"><div id="map-pell-MD" class="cp-canvas" role="region" aria-label="Maryland counties by Pell share at destination colleges"></div></figure>
+  </main>
+  <footer class="cp-foot" id="cp-foot"></footer>
+  <div class="cp-tip" id="cp-tip" role="tooltip" hidden></div>
+  <div class="cp-status" id="cp-status" role="status">Loading…</div>
+  <script type="module" src="/src/compare.ts"></script>
+</body>
+</html>

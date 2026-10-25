@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+data/raw/*.zip
+data/raw/cb
+data/raw/*.xlsx
+.venv

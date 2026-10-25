@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Where College Opportunity Begins · Massachusetts &amp; Georgia</title>
+  <meta name="description" content="Mapping the relationship between geography, economic disadvantage, and access to higher education in Massachusetts and Georgia." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23101114'/%3E%3Crect x='3' y='8' width='2' height='5' fill='%23fcbf7f'/%3E%3Crect x='7' y='5' width='2' height='8' fill='%23e4592f'/%3E%3Crect x='11' y='2' width='2' height='11' fill='%237c0f0c'/%3E%3C/svg%3E" />
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="masthead">
+    <div class="brand">
+      <h1>Where College Opportunity Begins</h1>
+      <p class="subtitle">Mapping the relationship between geography, economic disadvantage, and access to higher education in Massachusetts and Georgia.</p>
+    </div>
+    <nav aria-label="Sections">
+      <a href="#explore" aria-current="true">Map</a>
+      <a href="#pell-elite">Pell at Elite Colleges</a>
+      <a href="#top50">Top 50</a>
+      <a href="#support">Where Support May Be Needed</a>
+      <a href="#limits">What the Data Can and Cannot Tell Us</a>
+      <a href="#methods">Sources &amp; Methods</a>
+      <a href="/compare.html" class="nav-page">GA vs. MD Maps →</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section id="explore" class="explorer" aria-label="Geographic opportunity map">
+      <aside class="sidebar" aria-label="Story and map controls">
+        <div class="story" id="story" aria-live="polite"></div>
+
+        <div class="controls">
+          <label class="field" for="metric">
+            <span>Map metric</span>
+            <select id="metric"></select>
+          </label>
+          <div id="metric-info" class="metric-info"></div>
+
+          <div class="field">
+            <span id="view-label">States</span>
+            <div class="seg" role="radiogroup" aria-labelledby="view-label">
+              <label><input type="radio" name="view" value="both" checked><span>Side by side</span></label>
+              <label><input type="radio" name="view" value="MA"><span>Massachusetts</span></label>
+              <label><input type="radio" name="view" value="GA"><span>Georgia</span></label>
+            </div>
+          </div>
+
+          <label class="field" for="search">
+            <span>Find a county</span>
+            <input id="search" type="search" list="county-list" placeholder="e.g. Hampden or Clay County, GA" autocomplete="off">
+            <datalist id="county-list"></datalist>
+          </label>
+
+          <div class="field-row">
+            <label class="field" for="f-rural"><span>Rurality</span>
+              <select id="f-rural"><option value="all">All counties</option></select>
+            </label>
+            <label class="field" for="f-econ"><span>Economic disadvantage</span>
+              <select id="f-econ">
+                <option value="all">All counties</option>
+                <option value="above">Poverty measurably above state</option>
+                <option value="not_above">Not measurably above state</option>
+              </select>
+            </label>
+          </div>
+          <p class="fine">Filters dim counties that don’t match; they never remove data.</p>
+
+          <fieldset class="layers">
+            <legend>Layers</legend>
+            <label><input type="checkbox" id="l-below"> Outline counties ≥ 3 pts below similar counties</label>
+            <label><input type="checkbox" id="l-colleges"> Colleges &amp; Pell Grants (institutional)</label>
+            <label class="indent"><input type="checkbox" id="l-selective" disabled> Most selective (elite) colleges only</label>
+            <label><input type="checkbox" id="l-3d"> 3D view (height = color class)</label>
+          </fieldset>
+        </div>
+      </aside>
+
+      <div class="maps" id="maps" data-view="both">
+        <figure class="map-panel" id="panel-MA">
+          <figcaption class="map-cap" id="cap-MA"></figcaption>
+          <div class="map" id="map-MA" role="region" aria-label="Map of Massachusetts counties. Use the county search or the table below for keyboard access."></div>
+        </figure>
+        <figure class="map-panel" id="panel-GA">
+          <figcaption class="map-cap" id="cap-GA"></figcaption>
+          <div class="map" id="map-GA" role="region" aria-label="Map of Georgia counties. Use the county search or the table below for keyboard access."></div>
+        </figure>
+        <div class="legend" id="legend" aria-live="polite"></div>
+        <div class="status" id="status" role="status">Loading county data…</div>
+      </div>
+
+      <aside class="detail" id="detail" aria-labelledby="detail-title" hidden>
+        <button class="close" id="detail-close" aria-label="Close county details">×</button>
+        <div id="detail-body"></div>
+      </aside>
+      <div class="tooltip" id="tooltip" role="tooltip" hidden></div>
+    </section>
+
+    <section id="pell-elite" class="section alt">
+      <div class="section-inner">
+        <p class="eyebrow">Pell Grants &amp; selectivity</p>
+        <h2>Pell Students at Elite Colleges</h2>
+        <p class="lede">Do the most selective colleges in each state enroll Pell Grant recipients in proportion to the state’s undergraduate population? This compares the Pell share at each state’s most selective colleges with the Pell share of everyone enrolled in college there.</p>
+        <div id="pell-elite-root"></div>
+      </div>
+    </section>
+
+    <section id="top50" class="section">
+      <div class="section-inner">
+        <p class="eyebrow">National destinations</p>
+        <h2>Where Each State Sends Students in the U.S. News Top 50</h2>
+        <p class="lede">How many recent high school graduates from Massachusetts and Georgia start college at one of the nation’s top-50 national universities, public or private, in any state? The University of Georgia (#52) is included as well.</p>
+        <div id="top50-root"></div>
+      </div>
+    </section>
+
+    <section id="support" class="section">
+      <div class="section-inner">
+        <p class="eyebrow">Decision support</p>
+        <h2>Where Support May Be Needed</h2>
+        <p class="lede">Screen counties using transparent criteria that combine economic disadvantage, college-going compared with similar counties, distance to a public four-year college, and income gaps. Criteria are counted, not scored. They point to places worth investigating with local partners, not to communities or students that are deficient.</p>
+        <div id="support-root"></div>
+        <div class="uses">
+          <h3>How these findings could inform decisions</h3>
+          <div class="use-grid">
+            <article><h4>Geographic outreach priorities</h4><p>Begin conversations in counties where college-going is below similar places, then confirm the pattern across several graduating classes with local schools.</p></article>
+            <article><h4>College advising programs</h4><p>Where the nearest public four-year campus is far away, ask about counselor caseloads, campus-visit access, virtual advising, and dual enrollment.</p></article>
+            <article><h4>Scholarship &amp; financial-aid help</h4><p>Wide income gaps suggest examining FAFSA completion, aid awareness, and last-dollar scholarships for low-income graduates.</p></article>
+            <article><h4>Grantmaking &amp; program expansion</h4><p>Pair this screen with a map of existing college-access programs (see the program file in the data guide) to avoid duplicating services.</p></article>
+            <article><h4>Research partnerships</h4><p>Origin-to-destination records linked to Pell status are not public. State data systems (MA DESE / E2C Hub, GA•AWARDS) and NSC can support approved research on them.</p></article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="limits" class="section alt">
+      <div class="section-inner">
+        <p class="eyebrow">Interpretation</p>
+        <h2>What the Data Can and Cannot Tell Us</h2>
+        <div class="limits-grid">
+          <article><h3>Association is not causation</h3><p>Counties with higher poverty may have lower college-going rates, but geography and income do not by themselves explain why. Many unmeasured factors differ between places.</p></article>
+          <article><h3>County averages hide differences</h3><p>A single county rate combines very different schools and neighborhoods. Large urban counties in particular contain wide internal gaps.</p></article>
+          <article><h3>County poverty ≠ student income</h3><p>County poverty describes all residents. It is not the income of any graduating student or family.</p></article>
+          <article><h3>Pell receipt ≠ Pell eligibility</h3><p>The share of students receiving Pell Grants at a college counts only students who enrolled and applied for aid. It cannot show eligible students who never enrolled.</p></article>
+          <article><h3>Selectivity is one dimension</h3><p>Admission selectivity is not the same as quality, fit, affordability, or completion. Two-year and open-access institutions are central to opportunity.</p></article>
+          <article><h3>Missing is not zero</h3><p>Hatched counties have no valid value: results were suppressed for privacy, not reported, or not collected. They are never treated as low.</p></article>
+          <article><h3>States report differently</h3><p>Massachusetts and Georgia use different low-income definitions, graduating classes, and matching rules. Comparisons with each state’s own average are more reliable than raw cross-state comparisons.</p></article>
+          <article><h3>Public schools only</h3><p>College-going rates cover public high school graduates. Private-school and home-schooled students are not included.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="methods" class="section">
+      <div class="section-inner">
+        <p class="eyebrow">Transparency</p>
+        <h2>Sources &amp; Methods</h2>
+        <div id="methods-root"></div>
+      </div>
+    </section>
+  </main>
+  <footer class="foot"><p>Built from public data. No simulated or imputed values are shown. <span id="build-info"></span></p></footer>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

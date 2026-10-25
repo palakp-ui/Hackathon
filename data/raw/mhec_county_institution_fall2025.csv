@@ -1,0 +1,870 @@
+county,institution,new_ft,total
+Allegany,Allegany College of Maryland,141,934
+Allegany,Anne Arundel Community College,0,1
+Allegany,College of Southern Maryland,0,1
+Allegany,Community College of Baltimore County,0,2
+Allegany,Frederick Community College,0,3
+Allegany,Garrett College,5,17
+Allegany,Hagerstown Community College,0,12
+Allegany,Howard Community College,0,1
+Allegany,Bowie State University,0,2
+Allegany,Coppin State University,1,1
+Allegany,Frostburg State University,71,576
+Allegany,Salisbury University,2,19
+Allegany,Towson University,8,19
+Allegany,University of Baltimore,0,1
+Allegany,University of Maryland - Baltimore,0,12
+Allegany,University of Maryland - Baltimore County,3,10
+Allegany,University of Maryland - College Park,15,67
+Allegany,University of Maryland - Eastern Shore,0,4
+Allegany,University of Maryland Global Campus,0,54
+Allegany,Morgan State University,0,3
+Allegany,St. Mary's College of Maryland,2,5
+Allegany,Hood College,0,5
+Allegany,Johns Hopkins University,0,6
+Allegany,Loyola University Maryland,0,3
+Allegany,Meritus School of Osteopathic Medicine,0,1
+Allegany,Mount St. Mary's University,1,1
+Allegany,Notre Dame of Maryland University,0,4
+Allegany,Washington College,3,3
+Allegany,McDaniel College,0,1
+Anne Arundel,Allegany College of Maryland,2,17
+Anne Arundel,Anne Arundel Community College,1017,10148
+Anne Arundel,Carroll Community College,0,9
+Anne Arundel,College of Southern Maryland,1,9
+Anne Arundel,Chesapeake College,0,14
+Anne Arundel,Community College of Baltimore County,36,282
+Anne Arundel,Baltimore City Community College,4,11
+Anne Arundel,Frederick Community College,0,4
+Anne Arundel,Garrett College,7,11
+Anne Arundel,Hagerstown Community College,0,4
+Anne Arundel,Harford Community College,3,13
+Anne Arundel,Howard Community College,35,254
+Anne Arundel,Montgomery College,4,45
+Anne Arundel,Prince George's Community College,2,74
+Anne Arundel,Wor-Wic Community College,0,3
+Anne Arundel,Bowie State University,54,391
+Anne Arundel,Coppin State University,24,73
+Anne Arundel,Frostburg State University,27,166
+Anne Arundel,Salisbury University,153,622
+Anne Arundel,Towson University,247,1550
+Anne Arundel,University of Baltimore,0,235
+Anne Arundel,University of Maryland - Baltimore,0,382
+Anne Arundel,University of Maryland - Baltimore County,218,1287
+Anne Arundel,University of Maryland - College Park,261,2179
+Anne Arundel,University of Maryland - Eastern Shore,25,120
+Anne Arundel,University of Maryland Global Campus,5,3224
+Anne Arundel,Morgan State University,73,361
+Anne Arundel,St. Mary's College of Maryland,49,177
+Anne Arundel,Capitol Technology University,6,70
+Anne Arundel,Washington Adventist University,2,20
+Anne Arundel,Goucher College,7,147
+Anne Arundel,Hood College,18,54
+Anne Arundel,Johns Hopkins University,6,407
+Anne Arundel,Loyola University Maryland,50,242
+Anne Arundel,Meritus School of Osteopathic Medicine,0,1
+Anne Arundel,Maryland Institute College of Art,11,51
+Anne Arundel,Mount St. Mary's University,15,95
+Anne Arundel,Notre Dame of Maryland University,13,347
+Anne Arundel,St. John's College,0,1
+Anne Arundel,SANS Technology Institute,0,40
+Anne Arundel,St. Mary's Seminary & University,0,7
+Anne Arundel,Stevenson University,53,241
+Anne Arundel,Washington College,18,47
+Anne Arundel,McDaniel College,45,164
+Baltimore County,Allegany College of Maryland,3,39
+Baltimore County,Anne Arundel Community College,14,224
+Baltimore County,Carroll Community College,5,98
+Baltimore County,College of Southern Maryland,0,2
+Baltimore County,Chesapeake College,0,2
+Baltimore County,Community College of Baltimore County,1059,11749
+Baltimore County,Baltimore City Community College,28,799
+Baltimore County,Frederick Community College,0,5
+Baltimore County,Garrett College,5,10
+Baltimore County,Hagerstown Community College,1,7
+Baltimore County,Harford Community College,21,185
+Baltimore County,Howard Community College,26,415
+Baltimore County,Montgomery College,3,27
+Baltimore County,Prince George's Community College,2,17
+Baltimore County,Wor-Wic Community College,0,3
+Baltimore County,Bowie State University,92,472
+Baltimore County,Coppin State University,79,487
+Baltimore County,Frostburg State University,27,259
+Baltimore County,Salisbury University,135,534
+Baltimore County,Towson University,572,4281
+Baltimore County,University of Baltimore,10,540
+Baltimore County,University of Maryland - Baltimore,0,678
+Baltimore County,University of Maryland - Baltimore County,320,2009
+Baltimore County,University of Maryland - College Park,474,2587
+Baltimore County,University of Maryland - Eastern Shore,58,241
+Baltimore County,University of Maryland Global Campus,12,2523
+Baltimore County,Morgan State University,225,1662
+Baltimore County,St. Mary's College of Maryland,31,127
+Baltimore County,Bais HaMedrash & Mesivta of Baltimore,17,32
+Baltimore County,Capitol Technology University,5,44
+Baltimore County,Washington Adventist University,0,13
+Baltimore County,Goucher College,42,246
+Baltimore County,Hood College,12,56
+Baltimore County,Johns Hopkins University,12,621
+Baltimore County,Loyola University Maryland,128,681
+Baltimore County,Meritus School of Osteopathic Medicine,0,1
+Baltimore County,Maryland Institute College of Art,19,111
+Baltimore County,Mount St. Mary's University,61,203
+Baltimore County,Ner Israel Rabbinical College,9,41
+Baltimore County,Notre Dame of Maryland University,50,891
+Baltimore County,SANS Technology Institute,0,4
+Baltimore County,St. Mary's Seminary & University,0,37
+Baltimore County,Stevenson University,156,834
+Baltimore County,Washington College,13,61
+Baltimore County,McDaniel College,46,240
+Baltimore County,Women’s Institute of Torah Seminary & College,15,55
+Baltimore County,Yeshiva College of the Nations Capital,3,6
+Baltimore City,Allegany College of Maryland,1,10
+Baltimore City,Anne Arundel Community College,11,226
+Baltimore City,Carroll Community College,0,11
+Baltimore City,College of Southern Maryland,0,3
+Baltimore City,Chesapeake College,0,1
+Baltimore City,Community College of Baltimore County,195,2834
+Baltimore City,Baltimore City Community College,126,3003
+Baltimore City,Frederick Community College,0,2
+Baltimore City,Garrett College,5,6
+Baltimore City,Hagerstown Community College,0,4
+Baltimore City,Harford Community College,4,52
+Baltimore City,Howard Community College,5,163
+Baltimore City,Montgomery College,1,21
+Baltimore City,Prince George's Community College,1,6
+Baltimore City,Bowie State University,75,290
+Baltimore City,Coppin State University,132,949
+Baltimore City,Frostburg State University,24,136
+Baltimore City,Salisbury University,23,92
+Baltimore City,Towson University,169,1126
+Baltimore City,University of Baltimore,13,1164
+Baltimore City,University of Maryland - Baltimore,0,642
+Baltimore City,University of Maryland - Baltimore County,67,602
+Baltimore City,University of Maryland - College Park,188,814
+Baltimore City,University of Maryland - Eastern Shore,98,280
+Baltimore City,University of Maryland Global Campus,10,1656
+Baltimore City,Morgan State University,221,1660
+Baltimore City,St. Mary's College of Maryland,15,70
+Baltimore City,Bais HaMedrash & Mesivta of Baltimore,7,32
+Baltimore City,Capitol Technology University,4,31
+Baltimore City,Washington Adventist University,0,6
+Baltimore City,Goucher College,40,161
+Baltimore City,Hood College,14,37
+Baltimore City,Johns Hopkins University,26,2125
+Baltimore City,Loyola University Maryland,43,432
+Baltimore City,Maryland Institute College of Art,17,146
+Baltimore City,Ner Israel Rabbinical College,21,183
+Baltimore City,Notre Dame of Maryland University,27,333
+Baltimore City,SANS Technology Institute,0,8
+Baltimore City,St. Mary's Seminary & University,0,20
+Baltimore City,Stevenson University,26,194
+Baltimore City,Washington College,4,17
+Baltimore City,McDaniel College,32,134
+Baltimore City,Women’s Institute of Torah Seminary & College,29,97
+Calvert,Allegany College of Maryland,2,7
+Calvert,Anne Arundel Community College,7,96
+Calvert,College of Southern Maryland,132,1160
+Calvert,Chesapeake College,0,1
+Calvert,Community College of Baltimore County,4,18
+Calvert,Frederick Community College,0,1
+Calvert,Hagerstown Community College,1,1
+Calvert,Montgomery College,0,4
+Calvert,Prince George's Community College,3,32
+Calvert,Wor-Wic Community College,0,2
+Calvert,Bowie State University,5,49
+Calvert,Coppin State University,0,4
+Calvert,Frostburg State University,9,41
+Calvert,Salisbury University,37,173
+Calvert,Towson University,31,212
+Calvert,University of Baltimore,0,17
+Calvert,University of Maryland - Baltimore,0,32
+Calvert,University of Maryland - Baltimore County,5,69
+Calvert,University of Maryland - College Park,57,348
+Calvert,University of Maryland - Eastern Shore,3,22
+Calvert,University of Maryland Global Campus,1,425
+Calvert,Morgan State University,5,26
+Calvert,St. Mary's College of Maryland,16,85
+Calvert,Capitol Technology University,0,5
+Calvert,Washington Adventist University,0,3
+Calvert,Goucher College,0,4
+Calvert,Hood College,0,8
+Calvert,Johns Hopkins University,0,30
+Calvert,Loyola University Maryland,5,10
+Calvert,Maryland Institute College of Art,0,5
+Calvert,Mount St. Mary's University,3,10
+Calvert,Notre Dame of Maryland University,1,63
+Calvert,SANS Technology Institute,0,1
+Calvert,Stevenson University,7,43
+Calvert,Washington College,0,6
+Calvert,McDaniel College,2,28
+Caroline,Allegany College of Maryland,1,2
+Caroline,Anne Arundel Community College,1,24
+Caroline,Chesapeake College,36,519
+Caroline,Community College of Baltimore County,0,3
+Caroline,Howard Community College,0,1
+Caroline,Montgomery College,0,1
+Caroline,Wor-Wic Community College,2,23
+Caroline,Bowie State University,3,15
+Caroline,Frostburg State University,2,15
+Caroline,Salisbury University,14,130
+Caroline,Towson University,7,35
+Caroline,University of Baltimore,0,3
+Caroline,University of Maryland - Baltimore,0,7
+Caroline,University of Maryland - Baltimore County,1,18
+Caroline,University of Maryland - College Park,22,71
+Caroline,University of Maryland - Eastern Shore,5,28
+Caroline,University of Maryland Global Campus,0,67
+Caroline,Morgan State University,2,7
+Caroline,St. Mary's College of Maryland,2,7
+Caroline,Capitol Technology University,1,3
+Caroline,Goucher College,0,3
+Caroline,Hood College,0,1
+Caroline,Johns Hopkins University,0,3
+Caroline,Loyola University Maryland,0,3
+Caroline,Mount St. Mary's University,1,4
+Caroline,Notre Dame of Maryland University,0,4
+Caroline,St. Mary's Seminary & University,0,1
+Caroline,Stevenson University,0,10
+Caroline,Washington College,7,12
+Caroline,McDaniel College,2,6
+Carroll,Allegany College of Maryland,2,8
+Carroll,Anne Arundel Community College,3,21
+Carroll,Carroll Community College,309,3014
+Carroll,Chesapeake College,0,2
+Carroll,Community College of Baltimore County,10,117
+Carroll,Frederick Community College,4,59
+Carroll,Garrett College,0,1
+Carroll,Hagerstown Community College,2,11
+Carroll,Harford Community College,1,4
+Carroll,Howard Community College,2,72
+Carroll,Montgomery College,1,10
+Carroll,Prince George's Community College,0,1
+Carroll,Wor-Wic Community College,0,2
+Carroll,Bowie State University,0,10
+Carroll,Coppin State University,2,7
+Carroll,Frostburg State University,21,116
+Carroll,Salisbury University,68,264
+Carroll,Towson University,56,619
+Carroll,University of Baltimore,0,48
+Carroll,University of Maryland - Baltimore,0,91
+Carroll,University of Maryland - Baltimore County,67,375
+Carroll,University of Maryland - College Park,107,558
+Carroll,University of Maryland - Eastern Shore,2,25
+Carroll,University of Maryland Global Campus,1,440
+Carroll,Morgan State University,3,28
+Carroll,St. Mary's College of Maryland,14,56
+Carroll,Capitol Technology University,0,10
+Carroll,Washington Adventist University,1,2
+Carroll,Goucher College,0,10
+Carroll,Hood College,7,69
+Carroll,Johns Hopkins University,3,84
+Carroll,Loyola University Maryland,6,59
+Carroll,Meritus School of Osteopathic Medicine,0,1
+Carroll,Maryland Institute College of Art,4,10
+Carroll,Mount St. Mary's University,19,90
+Carroll,Notre Dame of Maryland University,1,48
+Carroll,SANS Technology Institute,0,2
+Carroll,St. Mary's Seminary & University,0,2
+Carroll,Stevenson University,48,255
+Carroll,Washington College,5,16
+Carroll,McDaniel College,28,409
+Cecil,Allegany College of Maryland,0,7
+Cecil,Anne Arundel Community College,1,4
+Cecil,Carroll Community College,1,1
+Cecil,Cecil Community College,197,1443
+Cecil,Chesapeake College,0,3
+Cecil,Community College of Baltimore County,1,47
+Cecil,Hagerstown Community College,1,1
+Cecil,Harford Community College,5,59
+Cecil,Howard Community College,0,1
+Cecil,Montgomery College,0,2
+Cecil,Wor-Wic Community College,0,2
+Cecil,Bowie State University,1,3
+Cecil,Coppin State University,3,8
+Cecil,Frostburg State University,7,35
+Cecil,Salisbury University,20,139
+Cecil,Towson University,24,228
+Cecil,University of Baltimore,0,9
+Cecil,University of Maryland - Baltimore,0,26
+Cecil,University of Maryland - Baltimore County,5,38
+Cecil,University of Maryland - College Park,38,161
+Cecil,University of Maryland - Eastern Shore,7,21
+Cecil,University of Maryland Global Campus,0,171
+Cecil,Morgan State University,3,26
+Cecil,St. Mary's College of Maryland,4,19
+Cecil,Capitol Technology University,2,7
+Cecil,Washington Adventist University,0,1
+Cecil,Goucher College,2,23
+Cecil,Hood College,1,8
+Cecil,Johns Hopkins University,0,15
+Cecil,Loyola University Maryland,8,21
+Cecil,Maryland Institute College of Art,0,2
+Cecil,Mount St. Mary's University,2,9
+Cecil,Notre Dame of Maryland University,5,10
+Cecil,Stevenson University,10,38
+Cecil,Washington College,7,20
+Cecil,McDaniel College,8,33
+Charles,Allegany College of Maryland,6,12
+Charles,Anne Arundel Community College,1,25
+Charles,College of Southern Maryland,297,2474
+Charles,Community College of Baltimore County,6,28
+Charles,Frederick Community College,0,2
+Charles,Hagerstown Community College,0,2
+Charles,Harford Community College,1,2
+Charles,Howard Community College,1,9
+Charles,Montgomery College,3,28
+Charles,Prince George's Community College,37,426
+Charles,Wor-Wic Community College,0,2
+Charles,Bowie State University,55,325
+Charles,Coppin State University,21,52
+Charles,Frostburg State University,15,77
+Charles,Salisbury University,45,126
+Charles,Towson University,92,450
+Charles,University of Baltimore,0,11
+Charles,University of Maryland - Baltimore,0,43
+Charles,University of Maryland - Baltimore County,19,117
+Charles,University of Maryland - College Park,102,485
+Charles,University of Maryland - Eastern Shore,37,116
+Charles,University of Maryland Global Campus,4,1066
+Charles,Morgan State University,75,295
+Charles,St. Mary's College of Maryland,19,80
+Charles,Capitol Technology University,1,18
+Charles,Washington Adventist University,0,5
+Charles,Goucher College,3,9
+Charles,Hood College,12,27
+Charles,Johns Hopkins University,0,36
+Charles,Loyola University Maryland,6,17
+Charles,Meritus School of Osteopathic Medicine,0,1
+Charles,Maryland Institute College of Art,4,18
+Charles,Mount St. Mary's University,9,21
+Charles,Notre Dame of Maryland University,2,61
+Charles,SANS Technology Institute,0,2
+Charles,St. Mary's Seminary & University,0,1
+Charles,Stevenson University,25,115
+Charles,Washington College,3,5
+Charles,McDaniel College,11,51
+Dorchester,Allegany College of Maryland,1,5
+Dorchester,Anne Arundel Community College,1,16
+Dorchester,Chesapeake College,18,356
+Dorchester,Community College of Baltimore County,1,7
+Dorchester,Hagerstown Community College,0,1
+Dorchester,Howard Community College,0,1
+Dorchester,Montgomery College,0,1
+Dorchester,Prince George's Community College,0,2
+Dorchester,Wor-Wic Community College,2,73
+Dorchester,Bowie State University,3,8
+Dorchester,Coppin State University,1,6
+Dorchester,Frostburg State University,1,3
+Dorchester,Salisbury University,20,125
+Dorchester,Towson University,6,36
+Dorchester,University of Baltimore,0,1
+Dorchester,University of Maryland - Baltimore,0,8
+Dorchester,University of Maryland - Baltimore County,1,5
+Dorchester,University of Maryland - College Park,9,36
+Dorchester,University of Maryland - Eastern Shore,4,34
+Dorchester,University of Maryland Global Campus,0,60
+Dorchester,Morgan State University,5,17
+Dorchester,St. Mary's College of Maryland,0,5
+Dorchester,Goucher College,1,2
+Dorchester,Johns Hopkins University,0,2
+Dorchester,Loyola University Maryland,0,1
+Dorchester,Maryland Institute College of Art,0,1
+Dorchester,Notre Dame of Maryland University,0,4
+Dorchester,Stevenson University,0,10
+Dorchester,Washington College,3,11
+Dorchester,McDaniel College,0,4
+Frederick,Allegany College of Maryland,1,14
+Frederick,Anne Arundel Community College,0,12
+Frederick,Carroll Community College,8,52
+Frederick,Community College of Baltimore County,4,74
+Frederick,Baltimore City Community College,0,1
+Frederick,Frederick Community College,663,7038
+Frederick,Garrett College,3,6
+Frederick,Hagerstown Community College,27,191
+Frederick,Harford Community College,0,2
+Frederick,Howard Community College,4,35
+Frederick,Montgomery College,7,169
+Frederick,Prince George's Community College,0,4
+Frederick,Bowie State University,8,53
+Frederick,Coppin State University,6,13
+Frederick,Frostburg State University,38,283
+Frederick,Salisbury University,71,326
+Frederick,Towson University,110,762
+Frederick,University of Baltimore,0,47
+Frederick,University of Maryland - Baltimore,0,188
+Frederick,University of Maryland - Baltimore County,106,483
+Frederick,University of Maryland - College Park,211,1491
+Frederick,University of Maryland - Eastern Shore,4,35
+Frederick,University of Maryland Global Campus,3,963
+Frederick,Morgan State University,19,84
+Frederick,St. Mary's College of Maryland,25,72
+Frederick,Capitol Technology University,2,14
+Frederick,Washington Adventist University,1,7
+Frederick,Goucher College,0,19
+Frederick,Hood College,52,720
+Frederick,Johns Hopkins University,4,125
+Frederick,Loyola University Maryland,13,50
+Frederick,Meritus School of Osteopathic Medicine,0,1
+Frederick,Maryland Institute College of Art,5,21
+Frederick,Mount St. Mary's University,48,390
+Frederick,Notre Dame of Maryland University,4,38
+Frederick,SANS Technology Institute,0,4
+Frederick,St. Mary's Seminary & University,0,2
+Frederick,Stevenson University,22,105
+Frederick,Washington College,1,8
+Frederick,McDaniel College,21,180
+Garrett,Allegany College of Maryland,3,45
+Garrett,Frederick Community College,0,2
+Garrett,Garrett College,101,504
+Garrett,Harford Community College,0,1
+Garrett,Montgomery College,0,1
+Garrett,Frostburg State University,12,117
+Garrett,Salisbury University,0,2
+Garrett,Towson University,0,4
+Garrett,University of Baltimore,0,2
+Garrett,University of Maryland - Baltimore,0,5
+Garrett,University of Maryland - College Park,3,20
+Garrett,University of Maryland - Eastern Shore,0,1
+Garrett,University of Maryland Global Campus,0,13
+Garrett,St. Mary's College of Maryland,1,3
+Garrett,Johns Hopkins University,0,1
+Garrett,Mount St. Mary's University,0,1
+Garrett,SANS Technology Institute,0,2
+Garrett,St. Mary's Seminary & University,0,1
+Garrett,Stevenson University,0,1
+Garrett,Washington College,0,1
+Garrett,McDaniel College,0,1
+Harford,Allegany College of Maryland,1,2
+Harford,Anne Arundel Community College,2,22
+Harford,Carroll Community College,1,3
+Harford,Cecil Community College,5,47
+Harford,College of Southern Maryland,0,1
+Harford,Chesapeake College,0,3
+Harford,Community College of Baltimore County,35,447
+Harford,Baltimore City Community College,0,2
+Harford,Frederick Community College,0,1
+Harford,Garrett College,0,1
+Harford,Harford Community College,556,4570
+Harford,Howard Community College,0,13
+Harford,Montgomery College,1,4
+Harford,Prince George's Community College,1,4
+Harford,Wor-Wic Community College,0,3
+Harford,Bowie State University,13,45
+Harford,Coppin State University,8,47
+Harford,Frostburg State University,23,110
+Harford,Salisbury University,63,309
+Harford,Towson University,113,1482
+Harford,University of Baltimore,0,99
+Harford,University of Maryland - Baltimore,0,146
+Harford,University of Maryland - Baltimore County,52,374
+Harford,University of Maryland - College Park,153,751
+Harford,University of Maryland - Eastern Shore,15,54
+Harford,University of Maryland Global Campus,2,830
+Harford,Morgan State University,35,231
+Harford,St. Mary's College of Maryland,8,53
+Harford,Capitol Technology University,0,8
+Harford,Goucher College,14,148
+Harford,Hood College,6,20
+Harford,Johns Hopkins University,3,106
+Harford,Loyola University Maryland,28,148
+Harford,Meritus School of Osteopathic Medicine,0,1
+Harford,Maryland Institute College of Art,6,23
+Harford,Mount St. Mary's University,13,38
+Harford,Notre Dame of Maryland University,8,175
+Harford,SANS Technology Institute,0,2
+Harford,St. Mary's Seminary & University,0,8
+Harford,Stevenson University,54,209
+Harford,Washington College,8,26
+Harford,McDaniel College,10,65
+Howard,Allegany College of Maryland,0,11
+Howard,Anne Arundel Community College,10,159
+Howard,Carroll Community College,0,11
+Howard,Chesapeake College,0,1
+Howard,Community College of Baltimore County,36,241
+Howard,Baltimore City Community College,2,10
+Howard,Frederick Community College,2,13
+Howard,Garrett College,0,3
+Howard,Hagerstown Community College,2,2
+Howard,Harford Community College,1,6
+Howard,Howard Community College,356,6721
+Howard,Montgomery College,2,58
+Howard,Prince George's Community College,0,36
+Howard,Wor-Wic Community College,0,2
+Howard,Bowie State University,25,213
+Howard,Coppin State University,11,48
+Howard,Frostburg State University,15,103
+Howard,Salisbury University,55,225
+Howard,Towson University,200,1567
+Howard,University of Baltimore,0,189
+Howard,University of Maryland - Baltimore,0,485
+Howard,University of Maryland - Baltimore County,434,2180
+Howard,University of Maryland - College Park,478,3539
+Howard,University of Maryland - Eastern Shore,15,66
+Howard,University of Maryland Global Campus,2,1360
+Howard,Morgan State University,32,252
+Howard,St. Mary's College of Maryland,14,77
+Howard,Capitol Technology University,2,41
+Howard,Washington Adventist University,1,19
+Howard,Goucher College,3,113
+Howard,Hood College,7,51
+Howard,Johns Hopkins University,22,680
+Howard,Loyola University Maryland,22,165
+Howard,Meritus School of Osteopathic Medicine,0,5
+Howard,Maryland Institute College of Art,3,38
+Howard,Mount St. Mary's University,15,72
+Howard,Notre Dame of Maryland University,2,166
+Howard,SANS Technology Institute,0,25
+Howard,St. Mary's Seminary & University,0,11
+Howard,Stevenson University,25,124
+Howard,Washington College,4,12
+Howard,McDaniel College,22,136
+Kent,Anne Arundel Community College,1,12
+Kent,Cecil Community College,2,15
+Kent,Chesapeake College,10,163
+Kent,Garrett College,1,1
+Kent,Harford Community College,0,1
+Kent,Montgomery College,1,1
+Kent,Prince George's Community College,0,1
+Kent,Wor-Wic Community College,0,2
+Kent,Bowie State University,0,11
+Kent,Coppin State University,0,4
+Kent,Frostburg State University,1,6
+Kent,Salisbury University,1,23
+Kent,Towson University,0,18
+Kent,University of Maryland - Baltimore,0,8
+Kent,University of Maryland - Baltimore County,1,7
+Kent,University of Maryland - College Park,8,28
+Kent,University of Maryland - Eastern Shore,0,2
+Kent,University of Maryland Global Campus,0,37
+Kent,Morgan State University,4,7
+Kent,St. Mary's College of Maryland,3,5
+Kent,Goucher College,0,2
+Kent,Johns Hopkins University,0,3
+Kent,Loyola University Maryland,1,3
+Kent,Mount St. Mary's University,1,4
+Kent,Stevenson University,2,9
+Kent,Washington College,10,49
+Kent,McDaniel College,0,2
+Montgomery,Allegany College of Maryland,5,29
+Montgomery,Anne Arundel Community College,1,62
+Montgomery,Carroll Community College,1,11
+Montgomery,College of Southern Maryland,1,5
+Montgomery,Chesapeake College,1,3
+Montgomery,Community College of Baltimore County,26,145
+Montgomery,Baltimore City Community College,1,3
+Montgomery,Frederick Community College,18,108
+Montgomery,Garrett College,1,7
+Montgomery,Hagerstown Community College,5,38
+Montgomery,Harford Community College,0,4
+Montgomery,Howard Community College,17,273
+Montgomery,Montgomery College,1978,17472
+Montgomery,Prince George's Community College,81,803
+Montgomery,Wor-Wic Community College,0,5
+Montgomery,Bowie State University,45,390
+Montgomery,Coppin State University,28,74
+Montgomery,Frostburg State University,46,206
+Montgomery,Salisbury University,101,484
+Montgomery,Towson University,438,2523
+Montgomery,University of Baltimore,0,198
+Montgomery,University of Maryland - Baltimore,0,1249
+Montgomery,University of Maryland - Baltimore County,571,2612
+Montgomery,University of Maryland - College Park,1136,9711
+Montgomery,University of Maryland - Eastern Shore,19,143
+Montgomery,University of Maryland Global Campus,10,3683
+Montgomery,Morgan State University,96,378
+Montgomery,St. Mary's College of Maryland,56,231
+Montgomery,Bais HaMedrash & Mesivta of Baltimore,0,1
+Montgomery,Capitol Technology University,8,81
+Montgomery,Washington Adventist University,15,165
+Montgomery,Goucher College,20,76
+Montgomery,Hood College,28,249
+Montgomery,Johns Hopkins University,36,831
+Montgomery,Loyola University Maryland,67,276
+Montgomery,Meritus School of Osteopathic Medicine,0,8
+Montgomery,Maryland Institute College of Art,20,96
+Montgomery,Mount St. Mary's University,70,235
+Montgomery,Ner Israel Rabbinical College,1,6
+Montgomery,Notre Dame of Maryland University,14,182
+Montgomery,SANS Technology Institute,0,12
+Montgomery,St. Mary's Seminary & University,0,1
+Montgomery,Stevenson University,36,165
+Montgomery,Washington College,19,50
+Montgomery,McDaniel College,52,289
+Montgomery,Women’s Institute of Torah Seminary & College,5,17
+Montgomery,Yeshiva College of the Nations Capital,0,3
+Prince George’s,Allegany College of Maryland,7,57
+Prince George’s,Anne Arundel Community College,43,489
+Prince George’s,Carroll Community College,0,4
+Prince George’s,College of Southern Maryland,21,184
+Prince George’s,Chesapeake College,0,1
+Prince George’s,Community College of Baltimore County,45,184
+Prince George’s,Baltimore City Community College,0,1
+Prince George’s,Garrett College,4,11
+Prince George’s,Hagerstown Community College,0,9
+Prince George’s,Harford Community College,0,6
+Prince George’s,Howard Community College,48,488
+Prince George’s,Montgomery College,82,785
+Prince George’s,Prince George's Community College,1259,10587
+Prince George’s,Wor-Wic Community College,0,3
+Prince George’s,Bowie State University,271,2492
+Prince George’s,Coppin State University,86,226
+Prince George’s,Frostburg State University,34,198
+Prince George’s,Salisbury University,43,204
+Prince George’s,Towson University,308,2083
+Prince George’s,University of Baltimore,2,145
+Prince George’s,University of Maryland - Baltimore,0,470
+Prince George’s,University of Maryland - Baltimore County,129,890
+Prince George’s,University of Maryland - College Park,608,3682
+Prince George’s,University of Maryland - Eastern Shore,107,471
+Prince George’s,University of Maryland Global Campus,20,4965
+Prince George’s,Morgan State University,374,1649
+Prince George’s,St. Mary's College of Maryland,37,99
+Prince George’s,Capitol Technology University,15,117
+Prince George’s,Washington Adventist University,17,154
+Prince George’s,Goucher College,16,52
+Prince George’s,Hood College,13,54
+Prince George’s,Johns Hopkins University,8,308
+Prince George’s,Loyola University Maryland,28,154
+Prince George’s,Meritus School of Osteopathic Medicine,0,2
+Prince George’s,Maryland Institute College of Art,12,59
+Prince George’s,Mount St. Mary's University,31,128
+Prince George’s,Notre Dame of Maryland University,16,225
+Prince George’s,SANS Technology Institute,0,1
+Prince George’s,St. Mary's Seminary & University,0,2
+Prince George’s,Stevenson University,44,281
+Prince George’s,Washington College,8,16
+Prince George’s,McDaniel College,20,94
+Queen Anne’s,Allegany College of Maryland,0,2
+Queen Anne’s,Anne Arundel Community College,10,147
+Queen Anne’s,Carroll Community College,0,1
+Queen Anne’s,Chesapeake College,70,681
+Queen Anne’s,Community College of Baltimore County,2,7
+Queen Anne’s,Garrett College,1,1
+Queen Anne’s,Harford Community College,0,2
+Queen Anne’s,Howard Community College,0,1
+Queen Anne’s,Montgomery College,1,1
+Queen Anne’s,Wor-Wic Community College,0,6
+Queen Anne’s,Bowie State University,0,4
+Queen Anne’s,Coppin State University,1,2
+Queen Anne’s,Frostburg State University,2,18
+Queen Anne’s,Salisbury University,25,163
+Queen Anne’s,Towson University,16,78
+Queen Anne’s,University of Baltimore,0,6
+Queen Anne’s,University of Maryland - Baltimore,0,12
+Queen Anne’s,University of Maryland - Baltimore County,7,32
+Queen Anne’s,University of Maryland - College Park,29,166
+Queen Anne’s,University of Maryland - Eastern Shore,2,17
+Queen Anne’s,University of Maryland Global Campus,1,126
+Queen Anne’s,Morgan State University,1,2
+Queen Anne’s,St. Mary's College of Maryland,6,22
+Queen Anne’s,Capitol Technology University,0,2
+Queen Anne’s,Goucher College,0,5
+Queen Anne’s,Hood College,3,9
+Queen Anne’s,Johns Hopkins University,0,10
+Queen Anne’s,Loyola University Maryland,2,12
+Queen Anne’s,Meritus School of Osteopathic Medicine,0,1
+Queen Anne’s,Maryland Institute College of Art,2,3
+Queen Anne’s,Mount St. Mary's University,1,6
+Queen Anne’s,Notre Dame of Maryland University,0,14
+Queen Anne’s,Stevenson University,5,27
+Queen Anne’s,Washington College,9,36
+Queen Anne’s,McDaniel College,2,10
+Saint Mary’s,Allegany College of Maryland,0,4
+Saint Mary’s,Anne Arundel Community College,1,16
+Saint Mary’s,College of Southern Maryland,190,1453
+Saint Mary’s,Community College of Baltimore County,2,13
+Saint Mary’s,Hagerstown Community College,0,1
+Saint Mary’s,Harford Community College,1,1
+Saint Mary’s,Howard Community College,0,2
+Saint Mary’s,Montgomery College,0,3
+Saint Mary’s,Prince George's Community College,0,18
+Saint Mary’s,Wor-Wic Community College,0,1
+Saint Mary’s,Bowie State University,6,36
+Saint Mary’s,Coppin State University,4,7
+Saint Mary’s,Frostburg State University,21,76
+Saint Mary’s,Salisbury University,35,116
+Saint Mary’s,Towson University,38,197
+Saint Mary’s,University of Baltimore,0,13
+Saint Mary’s,University of Maryland - Baltimore,0,35
+Saint Mary’s,University of Maryland - Baltimore County,7,60
+Saint Mary’s,University of Maryland - College Park,50,249
+Saint Mary’s,University of Maryland - Eastern Shore,3,16
+Saint Mary’s,University of Maryland Global Campus,2,649
+Saint Mary’s,Morgan State University,6,43
+Saint Mary’s,St. Mary's College of Maryland,38,231
+Saint Mary’s,Capitol Technology University,0,6
+Saint Mary’s,Washington Adventist University,0,2
+Saint Mary’s,Goucher College,1,4
+Saint Mary’s,Hood College,4,13
+Saint Mary’s,Johns Hopkins University,0,42
+Saint Mary’s,Loyola University Maryland,0,8
+Saint Mary’s,Meritus School of Osteopathic Medicine,0,1
+Saint Mary’s,Maryland Institute College of Art,1,2
+Saint Mary’s,Mount St. Mary's University,2,13
+Saint Mary’s,Notre Dame of Maryland University,0,97
+Saint Mary’s,Stevenson University,10,49
+Saint Mary’s,Washington College,1,4
+Saint Mary’s,McDaniel College,4,10
+Somerset,Community College of Baltimore County,0,1
+Somerset,Frederick Community College,0,1
+Somerset,Garrett College,0,1
+Somerset,Harford Community College,1,1
+Somerset,Wor-Wic Community College,15,282
+Somerset,Bowie State University,0,4
+Somerset,Coppin State University,0,1
+Somerset,Frostburg State University,0,4
+Somerset,Salisbury University,20,102
+Somerset,Towson University,4,7
+Somerset,University of Maryland - Baltimore County,1,5
+Somerset,University of Maryland - College Park,10,25
+Somerset,University of Maryland - Eastern Shore,14,135
+Somerset,University of Maryland Global Campus,0,30
+Somerset,Morgan State University,1,5
+Somerset,St. Mary's College of Maryland,1,2
+Somerset,Capitol Technology University,0,1
+Somerset,Loyola University Maryland,1,1
+Somerset,Mount St. Mary's University,0,4
+Somerset,Notre Dame of Maryland University,0,2
+Somerset,Stevenson University,1,7
+Somerset,Washington College,2,5
+Somerset,McDaniel College,1,2
+Talbot,Anne Arundel Community College,2,31
+Talbot,Chesapeake College,46,453
+Talbot,Community College of Baltimore County,0,3
+Talbot,Howard Community College,0,2
+Talbot,Prince George's Community College,0,1
+Talbot,Wor-Wic Community College,2,23
+Talbot,Bowie State University,0,8
+Talbot,Coppin State University,1,3
+Talbot,Frostburg State University,0,7
+Talbot,Salisbury University,13,122
+Talbot,Towson University,7,50
+Talbot,University of Baltimore,0,9
+Talbot,University of Maryland - Baltimore,0,9
+Talbot,University of Maryland - Baltimore County,3,12
+Talbot,University of Maryland - College Park,22,103
+Talbot,University of Maryland - Eastern Shore,3,13
+Talbot,University of Maryland Global Campus,0,57
+Talbot,Morgan State University,1,3
+Talbot,St. Mary's College of Maryland,0,6
+Talbot,Capitol Technology University,0,1
+Talbot,Goucher College,0,4
+Talbot,Hood College,0,1
+Talbot,Johns Hopkins University,0,4
+Talbot,Loyola University Maryland,1,8
+Talbot,Maryland Institute College of Art,2,3
+Talbot,Mount St. Mary's University,1,8
+Talbot,Notre Dame of Maryland University,0,5
+Talbot,Stevenson University,4,11
+Talbot,Washington College,2,8
+Talbot,McDaniel College,3,8
+Washington,Allegany College of Maryland,6,34
+Washington,Anne Arundel Community College,0,9
+Washington,Carroll Community College,0,2
+Washington,College of Southern Maryland,0,1
+Washington,Community College of Baltimore County,1,13
+Washington,Frederick Community College,10,99
+Washington,Garrett College,1,4
+Washington,Hagerstown Community College,343,4085
+Washington,Harford Community College,1,1
+Washington,Howard Community College,0,8
+Washington,Montgomery College,1,18
+Washington,Prince George's Community College,1,7
+Washington,Bowie State University,5,24
+Washington,Coppin State University,0,3
+Washington,Frostburg State University,24,240
+Washington,Salisbury University,32,163
+Washington,Towson University,25,169
+Washington,University of Baltimore,0,10
+Washington,University of Maryland - Baltimore,0,31
+Washington,University of Maryland - Baltimore County,16,96
+Washington,University of Maryland - College Park,54,256
+Washington,University of Maryland - Eastern Shore,2,16
+Washington,University of Maryland Global Campus,2,355
+Washington,Morgan State University,1,19
+Washington,St. Mary's College of Maryland,3,9
+Washington,Capitol Technology University,0,5
+Washington,Washington Adventist University,0,4
+Washington,Goucher College,1,4
+Washington,Hood College,11,90
+Washington,Johns Hopkins University,14,617
+Washington,Loyola University Maryland,3,20
+Washington,Meritus School of Osteopathic Medicine,0,2
+Washington,Maryland Institute College of Art,2,5
+Washington,Mount St. Mary's University,8,61
+Washington,Notre Dame of Maryland University,0,10
+Washington,SANS Technology Institute,0,3
+Washington,St. Mary's Seminary & University,0,1
+Washington,Stevenson University,8,31
+Washington,Washington College,0,6
+Washington,McDaniel College,5,26
+Wicomico,Allegany College of Maryland,0,4
+Wicomico,Anne Arundel Community College,0,7
+Wicomico,College of Southern Maryland,0,1
+Wicomico,Chesapeake College,0,13
+Wicomico,Community College of Baltimore County,0,9
+Wicomico,Garrett College,1,1
+Wicomico,Harford Community College,0,1
+Wicomico,Howard Community College,0,2
+Wicomico,Montgomery College,0,1
+Wicomico,Wor-Wic Community College,90,1616
+Wicomico,Bowie State University,4,13
+Wicomico,Coppin State University,2,21
+Wicomico,Frostburg State University,4,21
+Wicomico,Salisbury University,161,1048
+Wicomico,Towson University,21,96
+Wicomico,University of Baltimore,0,6
+Wicomico,University of Maryland - Baltimore,0,23
+Wicomico,University of Maryland - Baltimore County,4,22
+Wicomico,University of Maryland - College Park,50,179
+Wicomico,University of Maryland - Eastern Shore,49,315
+Wicomico,University of Maryland Global Campus,0,167
+Wicomico,Morgan State University,5,29
+Wicomico,St. Mary's College of Maryland,3,9
+Wicomico,Capitol Technology University,0,1
+Wicomico,Washington Adventist University,2,3
+Wicomico,Goucher College,0,13
+Wicomico,Hood College,1,8
+Wicomico,Johns Hopkins University,4,17
+Wicomico,Loyola University Maryland,1,10
+Wicomico,Meritus School of Osteopathic Medicine,0,2
+Wicomico,Mount St. Mary's University,1,10
+Wicomico,Notre Dame of Maryland University,0,3
+Wicomico,Stevenson University,3,11
+Wicomico,Washington College,3,6
+Wicomico,McDaniel College,3,13
+Worcester,Anne Arundel Community College,0,4
+Worcester,Chesapeake College,0,3
+Worcester,Community College of Baltimore County,2,4
+Worcester,Baltimore City Community College,0,1
+Worcester,Garrett College,2,3
+Worcester,Harford Community College,0,1
+Worcester,Howard Community College,0,1
+Worcester,Montgomery College,0,2
+Worcester,Prince George's Community College,0,1
+Worcester,Wor-Wic Community College,53,782
+Worcester,Bowie State University,2,8
+Worcester,Coppin State University,0,5
+Worcester,Frostburg State University,1,14
+Worcester,Salisbury University,66,481
+Worcester,Towson University,7,55
+Worcester,University of Baltimore,0,8
+Worcester,University of Maryland - Baltimore,0,9
+Worcester,University of Maryland - Baltimore County,4,23
+Worcester,University of Maryland - College Park,25,94
+Worcester,University of Maryland - Eastern Shore,15,165
+Worcester,University of Maryland Global Campus,0,79
+Worcester,Morgan State University,3,9
+Worcester,St. Mary's College of Maryland,5,10
+Worcester,Capitol Technology University,0,4
+Worcester,Goucher College,0,3
+Worcester,Hood College,6,8
+Worcester,Johns Hopkins University,0,14
+Worcester,Loyola University Maryland,2,5
+Worcester,Maryland Institute College of Art,2,2
+Worcester,Mount St. Mary's University,2,3
+Worcester,Notre Dame of Maryland University,0,1
+Worcester,Stevenson University,1,8
+Worcester,Washington College,2,5
+Worcester,McDaniel College,4,12

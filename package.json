@@ -1,0 +1,25 @@
+{
+  "name": "where-college-opportunity-begins",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive geographic equity visualization of college access, economic disadvantage, and Pell Grants in Massachusetts and Georgia.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "fetch:data": "bash scripts/fetch-data.sh",
+    "build:data": "node scripts/build-data.mjs && node scripts/build-compare.mjs"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "mapbox-gl": "3.17.0",
+    "maplibre-gl": "5.15.0"
+  },
+  "devDependencies": {
+    "shapefile": "0.6.6",
+    "typescript": "5.9.3",
+    "vite": "7.3.1"
+  }
+}
